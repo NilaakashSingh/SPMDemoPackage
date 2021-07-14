@@ -1,3 +1,5 @@
 # SPMDemoProject
 
-A description of this package.
+This package is made to learn SPM, this article is very good.
+
+https://www.avanderlee.com/swift/creating-swift-package-manager-framework/
